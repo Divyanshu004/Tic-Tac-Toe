@@ -31,5 +31,5 @@ google-chrome index.html
 
 👤 **Divyanshu Singh**
 
-* LinkedIn: [https://www.linkedin.com/in/divyanshu-singh-a9a556258/)
-* GitHub: [@arasgungore](https://github.com/arasgungore)
+* LinkedIn: [https://www.linkedin.com/in/divyanshu-singh-a9a556258/]
+* GitHub: [https://github.com/Divyanshu004]
