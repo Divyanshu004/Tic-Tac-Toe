@@ -29,7 +29,7 @@ google-chrome index.html
 
 ## Author
 
-👤 **Aras Güngöre**
+👤 **Divyanshu Singh**
 
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
+* LinkedIn: [https://www.linkedin.com/in/divyanshu-singh-a9a556258/)
 * GitHub: [@arasgungore](https://github.com/arasgungore)
