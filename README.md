@@ -1,6 +1,6 @@
 # tic-tac-toe
 
-Simple tic-tac-toe game built using HTML, CSS, and JavaScript. For more information about the game, click [here](https://en.wikipedia.org/wiki/Tic-tac-toe).
+A simple Tic-Tac-Toe game designed with HTML, CSS, and JavaScript is a classic two-player board game, where players take turns to place their marks (X or O) on a grid. The game is implemented as a frontend project, offering an interactive and enjoyable gaming experience for users., click [here](https://en.wikipedia.org/wiki/Tic-tac-toe).
 
 
 
